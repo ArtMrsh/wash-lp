@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'PF Din Text Cond Pro';
+	src: url('PFDinTextCondPro-Bold.eot');
+	src: url('PFDinTextCondPro-Bold.eot?#iefix') format('embedded-opentype'),
+		url('PFDinTextCondPro-Bold.woff') format('woff'),
+		url('PFDinTextCondPro-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Din Text Cond Pro';
+	src: url('PFDinTextCondPro-MediumItalic.eot');
+	src: url('PFDinTextCondPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+		url('PFDinTextCondPro-MediumItalic.woff') format('woff'),
+		url('PFDinTextCondPro-MediumItalic.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'PF Din Text Cond Pro';
+	src: url('PFDinTextCondPro-Medium.eot');
+	src: url('PFDinTextCondPro-Medium.eot?#iefix') format('embedded-opentype'),
+		url('PFDinTextCondPro-Medium.woff') format('woff'),
+		url('PFDinTextCondPro-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Din Text Cond Pro';
+	src: url('PFDinTextCondPro-Regular.eot');
+	src: url('PFDinTextCondPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('PFDinTextCondPro-Regular.woff') format('woff'),
+		url('PFDinTextCondPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
